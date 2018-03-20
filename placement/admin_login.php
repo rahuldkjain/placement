@@ -109,7 +109,7 @@
 
         <div class=" container-fluid">
 
-            <form class="form-horizontal" action="company_login_process.php" method="post">
+            <form class="form-horizontal" action="admin_process.php" method="post">
               <div class="page-header col-md-12">
                 <h2>Login here</h2>
               </div>
