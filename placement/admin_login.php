@@ -116,7 +116,7 @@
               <div class="form-group">
                 <label for="email" class="control-label col-md-2">User</label>
                 <div class="col-md-6">
-                  <input type="text" class="form-control" name="email" placeholder="Admin UserId" required>
+                  <input type="text" class="form-control" name="user" placeholder="Admin UserId" required>
                   <p class="help-block"></p>
                 </div>
 
