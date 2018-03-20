@@ -1,0 +1,294 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rub",
+				"rubCountPin2"
+			],
+			[
+				"magnetizingPin1",
+				"magnetizingPin1Forward"
+			],
+			[
+				"magnetizedPin",
+				"magnetizedPin1Forward"
+			],
+			[
+				"ini",
+				"initialiseControls"
+			],
+			[
+				"magnet",
+				"magnetizingPin1Backward"
+			],
+			[
+				"pin2",
+				"pin2Z"
+			],
+			[
+				"magnetized",
+				"magnetizePin1Backward"
+			],
+			[
+				"magnetizedPin2",
+				"magnetizedPin2Backward"
+			],
+			[
+				"magnetizedPin1",
+				"magnetizedPin1Backward"
+			],
+			[
+				"magn",
+				"magnetizedPin2"
+			],
+			[
+				"Rub",
+				"Rub_Backward"
+			],
+			[
+				"floa",
+				"floatPin2"
+			],
+			[
+				"float",
+				"floatPin1"
+			],
+			[
+				"myC",
+				"myCenterY"
+			],
+			[
+				"mag",
+				"magnetize"
+			],
+			[
+				"toggl",
+				"toggleMagnet"
+			],
+			[
+				"my",
+				"myCenterY"
+			],
+			[
+				"cork",
+				"corkStand"
+			],
+			[
+				"sele",
+				"selectedBody"
+			],
+			[
+				"fill",
+				"fillBottle0"
+			],
+			[
+				"start",
+				"startCount"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Add Repository"
+			],
+			[
+				"branch",
+				"git: branch"
+			],
+			[
+				"git branch",
+				"git: branch"
+			],
+			[
+				"git",
+				"git: branch"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Rahul/Documents/Ekalavya Animations/Ekalavya IITB/Experiment1/experiment.js",
+		"/E/Water Level/index.html",
+		"/C/Users/Rahul/Documents/Ekalavya Animations/Ekalavya IITB/Experiment2/experiment.js",
+		"/C/Users/Rahul/Documents/Ekalavya Animations/Experiment2/Water Level/experiment.js",
+		"/C/Users/Rahul/Documents/Ekalavya Animations/ThreeJs-Animations-master/Animation 1/Experiment/experiment.js",
+		"/C/Users/Rahul/Documents/Ekalavya Animations/Experiment/experiment.js",
+		"/C/Users/Rahul/Documents/Ekalavya Animations/Ekalavya IITB/Experiment2/index.html",
+		"/C/Users/Rahul/Documents/Ekalavya Animations/Ekalavya IITB/Experiment1/exp.js",
+		"/C/Users/Rahul/Documents/Ekalavya Animations/Ekalavya IITB/Experiment1/experiment - Copy.js",
+		"/C/Users/Rahul/Documents/Ekalavya Animations/sampleExperiment/experiment.js",
+		"/C/Users/Rahul/Documents/Ekalavya Animations/Ekalavya IITB/Experiment1/index.html",
+		"/C/Users/Rahul/Documents/Ekalavya Animations/Ekalavya IITB/Experiment/index.html",
+		"/C/Users/Rahul/AppData/Local/Temp/Rar$DIa0.625/experiment.js",
+		"/E/Ekalavya IITB/Experiment2/experiment.js",
+		"/E/Experiment2/Water Level/experiment.js",
+		"/E/Experiment2/experiment.js",
+		"/E/Water Level/experiment.js",
+		"/E/Ekalavya IITB/index.html",
+		"/E/Ekalavya IITB/Experiment1/index.html",
+		"/E/Ekalavya IITB/Experiment1/experiment.js",
+		"/E/Ekalavya IITB/Experiment2/index.html",
+		"/E/Ekalavya IITB/experiment.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
