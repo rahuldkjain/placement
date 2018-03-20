@@ -1,0 +1,266 @@
+.nav1 ul{
+    list-style-type:none;
+    padding:0;
+    margin:0;
+    overflow:hidden;
+    background-color:#333;
+}
+.nav1 li{
+    float:right;
+}
+.nav1 li a{
+    font-size:12px;
+    display:block;
+    color:white;
+    text-align:center;
+    padding:5px;
+    padding-left:18px;
+    padding-right:18px;
+    text-decoration:none;
+}
+.nav1 li a:hover{
+    background-color:#111;
+}
+.logoimg {
+    height:90px;
+}
+.logoimg img{
+    width:100%;
+    padding:0px !important;
+    margin:0;
+}
+.caption h3{
+
+}
+.fntnav{
+    font-weight:bold;
+}
+.box2{
+    background:linear-gradient(
+      rgba(40, 40, 40, 0.6), 
+      rgba(40, 40, 40, 0.6)
+    ),url("../images/bg4.jpg") fixed center no-repeat;
+    background-size:100% 100% !important;
+}
+.fnt{
+    font-size:14px !important;
+}
+.tul{
+    width:328px;
+    height:179px !important;
+    position:center;
+}
+.box3{
+    background:linear-gradient(
+      rgba(40, 40, 40, 0.8), 
+      rgba(40, 40, 40, 0.8)
+    ),url("../images/bg4.jpg") fixed center no-repeat;
+    background-size:100% 100% !important;
+}
+.box4 img{
+    border-radius:10px;
+}
+.box6{
+    padding:15px;
+    
+        background:url("../images/img_bg_2.jpg");
+    background-color:#162d3d;
+}
+.carousel .carousel-item{
+    width:250px !important;
+    height:200px !important;
+}
+@media only screen and (max-width:350px){
+ .carousel .carousel-item{
+    width:150px !important;
+}   
+}
+.row{
+    margin-top:0px !important;
+    margin-bottom:0px !important;
+}
+#footer{
+    margin-top:0px !important;
+}
+.box7{
+    background-color:#283842;
+    font-family:adobe hebrew;
+    font-weight:300px;
+    color:#ffffff;
+}
+
+.module:nth-child(even) {
+  margin-right: 0;
+}
+
+.come-in {
+  transform: translateY(150px);
+  animation: come-in 1s ease forwards;
+}
+
+.come-in:nth-child(odd) {
+  animation-duration: 1s;
+}
+
+.already-visible {
+  transform: translateY(0);
+  animation: none;
+}
+
+@keyframes come-in {
+  to {
+    transform: translateY(0);
+  }
+}
+
+.rnd{
+    background-color:#ddd;
+}
+.brd{
+    margin-left:15px !important;
+    padding:10px;
+    text-decoration: none;
+}
+.mess{
+    margin-left:6%;
+    margin-right:6%;
+}
+
+.ymargin{
+    padding-right:0 ! important;
+    padding-left:0 ! important;
+    width:100%;
+}
+.section {
+	padding: 50px 0;
+}
+.space {
+	margin-top: 60px;
+}
+.person {
+	max-width: 270px;
+	text-align: center;
+}
+.person img {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	margin: auto;
+    border: 1px solid grey;
+}
+.person-content {
+	margin-top: 20px;
+}
+.person h4 {
+	font-weight: 400;
+}
+.person h5 {
+	color: #00aeda;
+	font-size: 13px;
+	font-weight: 400;
+	margin-bottom: 20px;
+}
+h4 {
+	font-size: 22px;
+	color: #2d3033;
+	font-weight: 400;
+}
+h5 {
+	font-size: 14px;
+	color: #2d3033;
+	text-transform: uppercase;
+	font-weight: 700;
+}
+.faqq{
+    font-family:candara;
+    font-size:18px;
+    color:white !important;
+}
+.faq{
+    font-family:candara;
+    font-size:18px;
+}
+.fac{
+    background:url("../images/img_bg_2.jpg");
+}
+
+.policy{
+    margin:0 auto;
+}
+.policy ul{
+    counter-reset:li;
+    list-style:none;
+    *list-style:decimal;
+    font-size:15px;
+    font-family:'Raleway', sans-serif;
+    padding:0;
+    margin-bottom:4em;
+}
+.policy ul ul{
+    margin:0 0 0 2em;
+}
+.policy li{
+    position:relative;
+    display:block;
+    padding: .4em .4em .4em 2em;
+    *padding: .4em;
+    margin:.5em 0;
+    background:#00897b;
+    color:white;
+    font-style:italic;
+    text-decoration:none;
+    transition: all .2s ease-in-out;
+}
+.policy li:hover{
+    background:#d6d4d4;
+    color:black;
+    text-decoration:none;
+    transform:scale(1.1);
+}
+.policy li:before{
+    content:counter(li);
+    counter-increment:li;
+    position:absolute;
+    left: -1.3em;
+    top:50%;
+    margin-top: -1.3em;
+    background:#00897b;
+    height: 2em;
+    width: 2em;
+    line-height: 2em;
+    border: .3em solid #fff;
+    text-align: center;
+    font-weight: bold;
+    color:#FFF;
+}
+.work{
+    margin: 0;
+    padding: 0;
+}
+.acad{
+    height:350px;
+    padding:10px;
+}
+.acad p{
+    font-family:poppins, 'sans-serif';
+    color: #878787;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 25px;
+  letter-spacing: 0.2px;
+  padding:10px;
+}
+
+.past{
+    margin:25px;
+    padding:15px;
+}
+.past h4{
+    font-size:28px;
+    font-weight:800px;
+}
+.recent
+{
+    margin-top:15px;
+    padding:10px;
+}
